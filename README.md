@@ -75,10 +75,11 @@ plt.show()
 ```
 
 ## Output:
+![Screenshot 2024-12-11 133851](https://github.com/user-attachments/assets/591d9043-686a-4cfa-a8ae-a3c575b83a49)
 ![Screenshot 2024-12-11 133917](https://github.com/user-attachments/assets/7207cd6f-2a16-4a26-9fa7-772174d21752)
 ![Screenshot 2024-12-11 133940](https://github.com/user-attachments/assets/ef1da2a1-7778-48d9-8c57-d8874a5032d7)
 
-![Screenshot 2024-12-11 133851](https://github.com/user-attachments/assets/591d9043-686a-4cfa-a8ae-a3c575b83a49)
+
 
 
 
